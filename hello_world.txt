@@ -1,1 +1,2 @@
 bomboclatt!
+Testing out the new git config command
